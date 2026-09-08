@@ -3,7 +3,8 @@
 Предметна область: Замовлення (клієнти, товари, замовлення, рядок замовлення)
  Призначення: документація замовлень в (інтернет-)магазині.
  ## Запуск
- dotnet build
- dotnet run --project src/Cli
+``` dotnet buildd
+
+dotnet run --project src/Cli```
  ## Середовище
  .NET SDK 10.0, Arch Linux x64
