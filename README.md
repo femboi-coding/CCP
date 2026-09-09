@@ -11,3 +11,8 @@ dotnet run --project src/Cli
 ```
  ## Середовище
  .NET SDK 10.0, Arch Linux x64
+
+| RID    | Режим | Розмір publish|
+| :-------|--------|:---------:|
+|linux-x64  |Self-contained       | 80МБ|
+|linux-x64|framework-dependent| 0.2МБ|
