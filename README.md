@@ -16,5 +16,8 @@ dotnet run --project src/Cli
 
 | RID    | Режим | Розмір publish|
 | :-------|--------|:---------:|
+|win-x64| Self-contained | 78MБ|
+|win-x64| framework-dependent | 0.216МБ|
 |linux-x64  |Self-contained       | 80МБ|
-|linux-x64|framework-dependent| 0.2МБ|
+|linux-x64|framework-dependent| 0.136МБ|
+
