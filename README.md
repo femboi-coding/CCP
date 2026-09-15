@@ -18,6 +18,8 @@ dotnet run --project src/Cli
 | :-------|--------|:---------:|
 |win-x64| Self-contained | 78MБ|
 |win-x64| framework-dependent | 0.216МБ|
+|win-x64| Single File | 73.6МБ|
+|win-x64| Trimmed| 20.3МБ|
 |linux-x64  |Self-contained       | 80МБ|
 |linux-x64|framework-dependent| 0.136МБ|
 
